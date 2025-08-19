@@ -40,6 +40,9 @@ Tip: These are placeholders; your PBIX may have additional or different KPIs. I 
 
 Pages and Interactions
 
+<img width="1327" height="791" alt="Screenshot 2025-08-19 204505" src="https://github.com/user-attachments/assets/52f80509-835b-405c-b9ff-15bab81eb512" />
+
+
 Overview: Executive KPIs with quick filters (time, city, product)
 Demand Trends: Hourly/weekly seasonality, growth rates
 Supply & Ops: Driver availability, utilization, wait/ETA, surge
@@ -63,6 +66,9 @@ DAX measures for KPIs, YoY/PoP, rolling windows, and segmentation
 I can inspect the PBIX to document the exact tables, relationships, and DAX measures on request.
 
 How to Customize
+
+<img width="1323" height="789" alt="Screenshot 2025-08-19 204521" src="https://github.com/user-attachments/assets/aa2f04f9-38fb-49d5-8567-9fc554b59d14" />
+
 
 Add/modify filters: Use Edit Interactions and Sync Slicers
 Adjust KPIs: Create or edit DAX measures in the Model view
