@@ -23,6 +23,8 @@ Quality and retention
 Cancellation trends and root-cause indicators
 Cohort-style views for repeat behavior
 
+<img width="1325" height="783" alt="Screenshot 2025-08-19 204443" src="https://github.com/user-attachments/assets/ed63b139-f6d1-4b83-b2c8-b00148a6b9fb" />
+
 
 Key Metrics (KPIs)
 Total Trips
