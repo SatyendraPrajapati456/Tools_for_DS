@@ -74,6 +74,10 @@ Add/modify filters: Use Edit Interactions and Sync Slicers
 Adjust KPIs: Create or edit DAX measures in the Model view
 Add geospatial layers: Ensure latitude/longitude or well-formed geo fields
 Performance tuning: Disable auto-date/time, reduce high-cardinality columns, use aggregations
+
+<img width="1776" height="784" alt="Screenshot 2025-08-19 205057" src="https://github.com/user-attachments/assets/95bce7d4-ae65-4862-9494-2c35688c0583" />
+
+
 Performance Tips
 Prefer numeric surrogate keys for relationships
 Summarize granular tables (e.g., by minute/hour) when appropriate
